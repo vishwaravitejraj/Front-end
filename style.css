@@ -19,8 +19,8 @@ article{
   margin: 10px;
   position: relative;
 }
-#content{
-  margin-top: 10px;
+p{
+  margin: 30px 10px 10px 10px;
 }
 
 h4{
