@@ -19,13 +19,16 @@ article{
   margin: 10px;
   position: relative;
 }
+#content{
+  margin-top: 10px;
+}
 
 h4{
   background-color:pink;
   border: 1px solid black;
   position: relative;
   float: right;
-  
+
 }
 
 @media (min-width: 786px) and (max-width: 992px) {
